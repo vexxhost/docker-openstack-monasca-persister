@@ -1,0 +1,1 @@
+# docker-openstack-monasca-persister
