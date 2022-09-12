@@ -43,6 +43,7 @@ jobs:
           RELEASE=${{ matrix.release }}
           PROJECT=monasca-persister
           PROJECT_REF=${{ env.PROJECT_REF }}
+          EXTRAS=
           PROFILES=influxdb
           DIST_PACKAGES=
           PIP_PACKAGES=
